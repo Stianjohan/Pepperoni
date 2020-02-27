@@ -1,0 +1,27 @@
+body{
+  background-color: #F0F8FF;
+}
+button{
+  color: white;
+  background-color: #FFA07A;
+}
+#divInpt{
+
+}
+.chat{
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  margin-top: 20px;
+  width: 38%;
+}
+#hei{
+border: solid 2px grey;
+background-color: lightblue;
+border-radius: 5%;
+}
+#du{
+  border: solid 2px grey;
+  background-color: lightyellow;
+  margin-right: 5px;
+  border-radius: 5%;
+}
